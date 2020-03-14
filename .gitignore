@@ -59,7 +59,7 @@ instance/
 
 # Sphinx documentation
 docs/_build/
-./reviews/
+reviews/
 
 # PyBuilder
 target/
